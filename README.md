@@ -88,7 +88,8 @@ python val.py
 |   **MED-YOLO**   |     -     |     -     |   0.731   |    0.376     |           18            |           9.54            |
 |   **MAR-YOLO**   |     -     |     -     |   0.785   |      -       |          20.1           |             -             |
 |    **SCFNet**    | **0.786** |   0.715   | **0.812** |  **0.469**   |         **5.9**         |           **2**           |
-Bold indicates first or second best performance.
+
+- Bold indicates first or second best performance.
 ## Time
 2024.4.25 open the val.py
 
