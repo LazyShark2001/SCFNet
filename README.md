@@ -22,7 +22,11 @@ If our code is helpful to you, please cite:
 ```python
 pip install -r requirements.txt
 ```
-<p align="center"> <img src="Fig/SCFNet.png" width="100%"> </p>
+
+
+<p align="center"> <img src="Fig/SCFNet.png" width="80%"> </p>
+
+
 ## Train
 
 ### 1. Prepare training data 
@@ -91,12 +95,16 @@ Bold indicates first or second best performance.
 2024.5.16 update train.py
 
 2024.5.16 update ScConv module.
+
+
 <p align="center"> <img src="Fig/ScConv.png" width="80%"> </p>
 
 
 ## Visualization of results
 
-<p align="center"> <img src="Fig/results.png" width="90%"> </p>
+
+<p align="center"> <img src="Fig/results.png" width="80%"> </p>
+
 
 ## Acknowledgements
 This code is built on [ultralytics (PyTorch)](https://github.com/ultralytics/ultralytics). We thank the authors for sharing the codes.
