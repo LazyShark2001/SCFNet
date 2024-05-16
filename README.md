@@ -51,7 +51,7 @@ SCFNet
 │   │   ├── val
 │   │   ├── test
 ```
-- After downloading the data set, modify the paths in path, train, val and test in the [data.yaml](SCFNet/data.yaml) file.
+- After downloading the data set, modify the paths in path, train, val and test in the [data.yaml](data.yaml) file.
 
 
 ### 2. Begin to train
