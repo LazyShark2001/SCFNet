@@ -24,7 +24,7 @@ pip install -r requirements.txt
 ```
 
 
-<p align="center"> <img src="Fig/SCFNet.png" width="80%"> </p>
+<p align="center"> <img src="./Fig/SCFNet.png" width="80%"> </p>
 
 
 ## Train
