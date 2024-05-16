@@ -22,7 +22,7 @@ If our code is helpful to you, please cite:
 ```python
 pip install -r requirements.txt
 ```
-<p align="center"> <img src="Fig/Fig/SCFNet.png" width="100%"> </p>
+<p align="center"> <img src="Fig/SCFNet.png" width="100%"> </p>
 ## Train
 
 ### 1. Prepare training data 
