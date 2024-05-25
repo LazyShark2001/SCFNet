@@ -101,6 +101,7 @@ python val.py
 
 <p align="center"> <img src="Fig/ScConv.png" width="80%"> </p>
 
+2024.5.25 update readme.
 
 ## Visualization of results
 
