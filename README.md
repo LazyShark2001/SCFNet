@@ -16,6 +16,7 @@ If our code is helpful to you, please cite:
   year={2024},
   publisher={MDPI}
 }
+```
 
 ## Requirements
 
