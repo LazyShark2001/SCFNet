@@ -19,14 +19,21 @@ If our code is helpful to you, please cite:
 ```
 
 
-* [**Requirements**](#Requirements)
-* [**Train**](#Train)
-* [**Test**](#Test)
-* [**Results**](#Results)
-* [**Time**](#Time)
-* [**Visualization of results**](#Visualization-of-results)
-* [**Acknowledgements**](#Acknowledgements)
-* [**Contact**](#Contact)
+[//]: # (* [**Requirements**]&#40;#Requirements&#41;)
+
+[//]: # (* [**Train**]&#40;#Train&#41;)
+
+[//]: # (* [**Test**]&#40;#Test&#41;)
+
+[//]: # (* [**Results**]&#40;#Results&#41;)
+
+[//]: # (* [**Time**]&#40;#Time&#41;)
+
+[//]: # (* [**Visualization of results**]&#40;#Visualization-of-results&#41;)
+
+[//]: # (* [**Acknowledgements**]&#40;#Acknowledgements&#41;)
+
+[//]: # (* [**Contact**]&#40;#Contact&#41;)
 
 
 
