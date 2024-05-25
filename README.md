@@ -24,7 +24,7 @@ If our code is helpful to you, please cite:
 * [**Test**](#Test)
 * [**Results**](#Results)
 * [**Time**](#Time)
-* [**Visualization of results**](#Visualization of results)
+* [**Visualization of results**](#Visualization-of-results)
 * [**Acknowledgements**](#Acknowledgements)
 * [**Contact**](#Contact)
 
